@@ -2,6 +2,7 @@
 
                                                  📚 Learning and studying
                                                  ☕ JAVA
+                                                 🐸  ABAP
                                                  🐍 Python
                                                  🎮 C#
                                                  💎 SQL
