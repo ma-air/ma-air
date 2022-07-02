@@ -8,3 +8,4 @@
                                                  💎 SQL
                                                  📱 Android (Kotlin & Java)
                                                  📝Doing projects on LaTex
+                                                 🤔 SCRUM
